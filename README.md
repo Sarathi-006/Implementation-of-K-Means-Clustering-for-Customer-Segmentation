@@ -66,8 +66,10 @@ plt.title("Customer Segments")
 
 ## Output:
 ![380471142-de3a9a42-3a88-4861-9b0c-06836154668a](https://github.com/user-attachments/assets/f67d4770-769a-455f-92fb-63f0f308edda)
+
 Y-PRED
 ![380471154-a21b62fe-f81d-433c-9e7e-96bf2e06040c](https://github.com/user-attachments/assets/dfe01431-b823-4d9a-a25a-047fd71a3205)
+
 CLUSTER
 ![380471173-5b0765e9-57f1-4cd4-978d-d34d4d963505](https://github.com/user-attachments/assets/fea54e2e-703b-45b6-8980-d803ba6ac78d)
 
